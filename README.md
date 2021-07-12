@@ -1,4 +1,4 @@
-#EZ Start Kit with micro:bit without ws2812
+# EZ Start Kit with micro:bit without ws2812
 
 * MakeCode version。
 # Reference
